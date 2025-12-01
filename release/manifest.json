@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2025-12-01T13:46:39.985Z",
+  "packages": [
+    {
+      "name": "ai-md-templates",
+      "description": "AI 문서 템플릿 모음 (docs, samples, 주요 안내문)",
+      "contents": [
+        "docs",
+        "samples",
+        "AGENT.md",
+        "index.md"
+      ]
+    },
+    {
+      "name": "prompt-cli",
+      "description": "README + 템플릿 검색 CLI/테스트/프롬프트 메타",
+      "contents": [
+        "README.md",
+        "package.json",
+        "package-lock.json",
+        "jest.config.js",
+        "scripts/prompt-cli.js",
+        "scripts/validate-references.js",
+        "meta",
+        "examples",
+        "__tests__",
+        "tests"
+      ]
+    }
+  ]
+}
